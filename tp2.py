@@ -1,4 +1,2 @@
-import datetime
 
-date = datetime.datetime.now()
-print(date)
+print("Hello world it's ME")
